@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Under construction…"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,10 +14,24 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "posts/2024-12-04-MyFirstBlogPost/index.html",
+    "href": "posts/2024-12-04-MyFirstBlogPost/index.html",
+    "title": "My First Blog Post",
+    "section": "",
+    "text": "I have big thoughts"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Peter Laurin",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is Peter’s personal website."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog Posts",
+    "section": "",
+    "text": "My First Blog Post\n\n\n\n\n\n\n\n\n\nDec 4, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

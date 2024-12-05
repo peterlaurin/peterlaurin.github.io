@@ -1,11 +1,19 @@
 ---
 title: "Peter Laurin"
+about:
+  template: jolla
+  image: media/headshot.jpg
+  links:
+    - icon: emoji-sunglasses-fill
+      text: BlueSky
+      href: https://bsky.app/profile/peterlaurin.bsky.social
+    - icon: github
+      text: Github
+      href: https://github.com/peterlaurin
+    - icon: feather
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=s3FYjF4AAAAJ&hl=en
+
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This is Peter's personal website.
