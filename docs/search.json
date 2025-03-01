@@ -7,6 +7,13 @@
     "text": "Fasta SNV Caller – a simple way to call SNPs from high-quality (read: long, overlapping, low-structural-divergence) fastas (e.g. isolate assemblies). Managed by Peter Laurin"
   },
   {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog Posts",
+    "section": "",
+    "text": "To be updated!"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -18,7 +25,7 @@
     "href": "index.html",
     "title": "Peter Laurin",
     "section": "",
-    "text": "Welcome! My name is Peter, and I am a third-year PhD student in the department of Ecology and Evolution at UCLA. Feel free to browse around!"
+    "text": "Welcome! My name is Peter, and I am a third-year PhD student in the Garud Lab in the department of Ecology and Evolution at UCLA. Feel free to browse around!\nContact:\npeterlaurin [ at ] ucla.edu"
   },
   {
     "objectID": "about.html",
