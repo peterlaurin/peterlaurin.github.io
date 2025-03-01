@@ -1,1 +1,18 @@
 /* css styles */
+.fig-caption{
+  font-size: 0.8em;
+  color: gray;
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+
+.center-figure {
+    display: flex;       /* Enables flexbox for centering */
+    flex-direction: column; /* Stacks image and caption */
+    align-items: center; /* Centers content horizontally */
+    justify-content: center; /* Centers vertically if needed */
+    width: 100%;         /* Ensures the figure takes full width */
+    text-align: center;  /* Centers the caption */
+}

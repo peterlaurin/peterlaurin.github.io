@@ -1,9 +1,63 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+I am an evolutionary biologist and population geneticist with a focus on rapid adaptation. I'm currently studying bacterial populations in the human gut microbiome, where evolutionary change occurs on timescales of human months and years. 
 
-```{r}
-1 + 1
-```
+
+### Education
+
+
+##### PhD, Ecology and Evolutionary Biology
+ *2022 -*   \|   **University of California, Los Angeles**  
+
+##### M.S., Statistics
+*2021 - 2022*    \|   **The University of Chicago** 
+
+##### B.S., Biology, minor Statistics
+*2017 - 2021*   \|   **The University of Chicago**
+
+
+### Research Background
+\
+
+::: {.center-figure}
+![](media/arabidopsis_thaliana.JPG){width=40%}
+:::
+
+::: {.fig-caption }
+*Arabidopsis thaliana* flowering in a growth room at UChicago. All of my pre-PhD research involved this beautiful plant in some way :) 
+::: 
+
+##### **Development and analysis of GWAS test statistics in epistatic backgrounds (UChicago)**
+###### Mentor: Mary Sara McPeek 
+
+I helped to develop a GWAS model testing for genetic interactions between loci. This model corrects for the t-statistic and improves power by utilizing both allele fre- quency and distributions of putatively interacting SNPs. I led the analysis of this model on real-world data, capturing epistatic loci in flowering time in *Arabidopsis thaliana* to successfully show an inflated t-statistic and subsequent correction using our methodology.
+
+\
+
+##### **Genetic basis of coinfection and pathogen evolution (UChicago)**
+###### Mentors: Joy Bergelson (now NYU), Andrew Gloss (now University of Georgia)
+
+I helped to lead a multiyear project searching for the genetic basis of synergistic and competitive interactions between different strains of a bacterial pathogen (*Pseudomonas viridiflava*) during coinfection of host plant (*Arabidopsis thaliana*). I designed and implemented a novel, high-throughput method for tracking the abundance of coinfecting bacterial strains within experimentally infected plants, which relied on transforming these strains to produce a light-emitting enzyme (luciferase). I then implemented novel GWAS methodology to identify bacterial genes shaping these coinfection outcomes, and conducted subsequent evolutionary analyses on these hits.
+
+\
+
+##### **Population structure and relatedness between two *Arabidopsis* mapping populations (NYU)** 
+###### Mentors: Joy Bergelson, Andrew Gloss (now University of Georgia)
+
+Contributed to the Gloss et al. paper ([https://doi.org/10.1098/rstb.2020.0512](https://doi.org/10.1098/rstb.2020.0512)) with population genomic analyses and comparisons of genetic diversity between a French population and global population of *Arabidopsis thaliana* to demonstrate how the geographic breadth of mapping panels in GWAS influences population structure and can mask important but subtle epistatic effects.
+
+\
+
+##### **The genetic basis of infection-related traits in an *Arabidopsis thaliana* pathogen (MPI for Developmental Biology, Germany)**
+###### Mentors: Detlef Weigel, Talia Karasov (now University of Utah)
+
+Quantified the fitness effects of thousands of genes in a pathogenic bacterial strain during infection of its natural host plant (*Arabidopsis thaliana*). To do this, I imple- mented an approach (Tn-Seq) that combines next-generation sequencing with high-throughput transposon insertional mutagenesis. Also assisted in short-read mapping and analyzing coverage for other mutagenesis projects in the lab.
+
+\
+
+
+
+
+

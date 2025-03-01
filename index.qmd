@@ -16,4 +16,5 @@ about:
 
 ---
 
-This is Peter's personal website.
+Welcome! My name is Peter, and I am a third-year PhD student in the department of Ecology and Evolution at UCLA. Feel free to browse around!
+

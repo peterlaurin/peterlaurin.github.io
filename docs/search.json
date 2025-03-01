@@ -4,34 +4,34 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Under construction…"
+    "text": "Fasta SNV Caller – a simple way to call SNPs from high-quality (read: long, overlapping, low-structural-divergence) fastas (e.g. isolate assemblies). Managed by Peter Laurin"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "posts/2024-12-04-MyFirstBlogPost/index.html",
-    "href": "posts/2024-12-04-MyFirstBlogPost/index.html",
-    "title": "My First Blog Post",
-    "section": "",
-    "text": "I have big thoughts"
+    "text": "To be updated soon!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Peter Laurin",
     "section": "",
-    "text": "This is Peter’s personal website."
+    "text": "Welcome! My name is Peter, and I am a third-year PhD student in the department of Ecology and Evolution at UCLA. Feel free to browse around!"
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Blog Posts",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
     "section": "",
-    "text": "My First Blog Post\n\n\n\n\n\n\n\n\n\nDec 4, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "I am an evolutionary biologist and population geneticist with a focus on rapid adaptation. I’m currently studying bacterial populations in the human gut microbiome, where evolutionary change occurs on timescales of human months and years.\n\nEducation\n\nPhD, Ecology and Evolutionary Biology\n2022 - | University of California, Los Angeles\n\n\nM.S., Statistics\n2021 - 2022 | The University of Chicago\n\n\nB.S., Biology, minor Statistics\n2017 - 2021 | The University of Chicago\n\n\n\nResearch Background\n\n\n\n\n\n\nArabidopsis thaliana flowering in a growth room at UChicago. All of my pre-PhD research involved this beautiful plant in some way :)\n\n\nDevelopment and analysis of GWAS test statistics in epistatic backgrounds (UChicago)\n\nMentor: Mary Sara McPeek\nI helped to develop a GWAS model testing for genetic interactions between loci. This model corrects for the t-statistic and improves power by utilizing both allele fre- quency and distributions of putatively interacting SNPs. I led the analysis of this model on real-world data, capturing epistatic loci in flowering time in Arabidopsis thaliana to successfully show an inflated t-statistic and subsequent correction using our methodology.\n\n\n\n\n\nGenetic basis of coinfection and pathogen evolution (UChicago)\n\nMentors: Joy Bergelson (now NYU), Andrew Gloss (now University of Georgia)\nI helped to lead a multiyear project searching for the genetic basis of synergistic and competitive interactions between different strains of a bacterial pathogen (Pseudomonas viridiflava) during coinfection of host plant (Arabidopsis thaliana). I designed and implemented a novel, high-throughput method for tracking the abundance of coinfecting bacterial strains within experimentally infected plants, which relied on transforming these strains to produce a light-emitting enzyme (luciferase). I then implemented novel GWAS methodology to identify bacterial genes shaping these coinfection outcomes, and conducted subsequent evolutionary analyses on these hits.\n\n\n\n\n\nPopulation structure and relatedness between two Arabidopsis mapping populations (NYU)\n\nMentors: Joy Bergelson, Andrew Gloss (now University of Georgia)\nContributed to the Gloss et al. paper (https://doi.org/10.1098/rstb.2020.0512) with population genomic analyses and comparisons of genetic diversity between a French population and global population of Arabidopsis thaliana to demonstrate how the geographic breadth of mapping panels in GWAS influences population structure and can mask important but subtle epistatic effects.\n\n\n\n\n\nThe genetic basis of infection-related traits in an Arabidopsis thaliana pathogen (MPI for Developmental Biology, Germany)\n\nMentors: Detlef Weigel, Talia Karasov (now University of Utah)\nQuantified the fitness effects of thousands of genes in a pathogenic bacterial strain during infection of its natural host plant (Arabidopsis thaliana). To do this, I imple- mented an approach (Tn-Seq) that combines next-generation sequencing with high-throughput transposon insertional mutagenesis. Also assisted in short-read mapping and analyzing coverage for other mutagenesis projects in the lab."
+  },
+  {
+    "objectID": "research_interests.html",
+    "href": "research_interests.html",
+    "title": "Research Interests",
+    "section": "",
+    "text": "Evolution and ecology of the human gut microbiome\nThe human gut microbiome is a microcosm of complex microbial life, teeming with diverse bacterial communities. How these communities evolved for such a complex environment and respond to contemporary selection pressures is an open question. As just one example, the human gut harbors a plethora of antimicrobial resistance variation with potential to seed antibiotic resistance in opportunistic and obligate pathogens. However, it’s unknown how this ‘resistome’ is maintained, and with what rates and by what mechanisms horizontal gene transfer to pathogens is achieved (Van Schaik 2015). Using tools from evolutionary genetics, I study questions of adaptation like these in various human gut bacterial species. With this work, I hope to drive research to answer questions about microbiomes’ history, understand contemporary dynamics of selection, and build tools to shape the future of human health via gut communities. Preprint coming soon! :)\n\n\n\n\nA scanning electron micrograph of Neisseria gonorrhoeae. Courtesy of the NIAID Rocky Mountain Laboratories in Hamilton, MT\n\n\n\nDetecting adaptation under complex adaptive architectures\nThe capacity for adaptation beyond the classical hard sweep has been well-established, from soft sweeps at the same site to polygenic adaptation across sites. Methodology to detect adaptation has similarly evolved. However, our understanding of the dynamics and genetic architecture of adaptation under different evolutionary regimes is just scratching the surface. As signals of adaptation become both more subtle and difficult to interpret under polygenic adaptation, there is an exciting possibility to explore novel genomic signatures of adaptation, and enact new methodology made possible with greater computing power and genomic data (e.g. ARGs, haplotype-based statistics, frequency spectra, etc.). In a future project, I hope to build statistics with power to detect joint signals of adaptation across many sites in the genome sharing a selective pressure. Stay tuned!\n\n\n\n\nOne of my favorite adaptation statistics from one of my favorite professors: the McDonald-Kreitman test\n(Image from Salvador-Martínez 2016).\n\n\n\nStatistical genetics of bacteria\nClassic statistical genetics have (for the most part) been developed for populations of eukaryotic organisms, and there are few organisms so well-represented as bacterial species in classic experimental genetics. However, the plethora of bacterial data and a desire to map the genetic basis of heritable traits in bacteria have produced a lively field of bacterial statistical genetics. While interesting challenges remain in the mapping of non-single-site variation and ameliorating bacterial population structure for GWAS, there are a number of interesting applications for bacterial GWAS beyond the standard human repoitoire. In my undergraduate work at UChicago, I mapped the genetic basis of coinfection success for a dominant bacterial pathogen of Arabidopsis thaliana (preprint coming soon!). However, I believe the depth of bacterial sequences should allow the study of bacterial genetic architecture for different traits in natural populations of pathogens and other bacterial communities in great detail. Perhaps in the near future for me!\n\n\n\n\nLuciferase counts for p23.A7, a dominant strain of the Arabidopsis pathogen Pseudomonas viridiflava. A figure for a future preprint? Oooh, how exciting!\n\n\n\n\nReferences\nSalvador-Martínez, Irepan. “Estimating complexity and adaptation in the embryo: a statistical developmental biology approach.” (2016).\nVan Schaik, Willem. “The human gut resistome.” Philosophical Transactions of the Royal Society B: Biological Sciences 370.1670 (2015): 20140087."
   }
 ]

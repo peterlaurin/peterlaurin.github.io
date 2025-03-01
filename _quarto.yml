@@ -4,21 +4,24 @@ project:
 
 website:
   title: "Peter Laurin"
+  site-url: https://peterlaurin.github.io
+  favicon: media/flavicon.jpg
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: about.qmd
+      - href: research_interests.qmd
       - href: resources.qmd
         text: Resources
       - href: posts.qmd
         text: Blog
+      - href: publications.qmd
+        text: Publications
 
 
 
 format:
   html:
-    theme: solar
+    theme: sandstone
     css: styles.css
     toc: true
 

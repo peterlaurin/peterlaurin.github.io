@@ -2,4 +2,5 @@
 title: "Resources"
 ---
 
-Under construction...
+[Fasta SNV Caller](https://github.com/garudlab/fasta_snv_caller.git) -- a simple way to call SNPs from high-quality (read: long, overlapping, low-structural-divergence) fastas (e.g. isolate assemblies). Managed by Peter Laurin
+
