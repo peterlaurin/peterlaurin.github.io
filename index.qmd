@@ -16,5 +16,9 @@ about:
 
 ---
 
-Welcome! My name is Peter, and I am a third-year PhD student in the department of Ecology and Evolution at UCLA. Feel free to browse around!
+Welcome! My name is Peter, and I am a third-year PhD student in the [Garud Lab](https://garud.eeb.ucla.edu/) in the department of Ecology and Evolution at UCLA. Feel free to browse around!
 
+
+Contact: 
+
+peterlaurin [ at ] ucla.edu
